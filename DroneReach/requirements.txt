@@ -1,0 +1,4 @@
+setuptools~=65.6.3
+gym~=0.25.2
+numpy~=1.21.6
+matplotlib~=3.5.3
